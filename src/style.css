@@ -1,0 +1,34 @@
+html{
+    background-image: url(https://masnoticiasbcs.com/wp-content/uploads/2015/11/tarjetas-credito-banamex-oro-clasica-platinum.png);
+    background-position: right top;
+    background-size: 400px 200px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+        }
+header{
+    text-align: center;
+    font-family: Open Sans;
+    font-size: large;
+}
+input{
+    border-radius: 25px;
+    padding: 15px 25px;
+    font-size: large;
+    font-style: strong;
+}
+button{
+    background-color:#000000b7;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: Open Sans;
+    box-shadow: 0 5px #999;
+    border-radius: 15px;
+}
+main{
+    text-align: center;
+    font-family: Open Sans;
+    font-size: large;
+}
